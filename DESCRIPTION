@@ -8,11 +8,11 @@ Maintainer: Keira Wiechecki <kaw504@nyu.edu>
 organism: Ciona robusta
 common_name: Vase tunicate
 provider: Ghost
-genome: HT_KY
+genome: HT_KY21
 release_date: 2022
 source_url: http://ghost.zool.kyoto-u.ac.jp/datas/HT.KY21Gene.2.fasta.zip
 organism_biocview: Ciona_robusta
 BSgenomeObjname: Crobusta
 circ_seqs: character(0)
-seqs_srcdir: HT_KY 
-seqfile_name: HT.Ref.2bit
+seqs_srcdir: HT_KY21 
+seqfile_name: HT.KY21Gene.2.2bit

@@ -1,4 +1,4 @@
-FASTA = HT.Ref.fasta
+FASTA = HT.KY21Gene.2.fasta
 URL = http://ghost.zool.kyoto-u.ac.jp/datas/HT.KY21Gene.2.fasta.zip
 GENOME = Crobusta.HT.KY21
 RELEASE = HT_KY21
